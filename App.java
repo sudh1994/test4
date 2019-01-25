@@ -1,4 +1,4 @@
-package com.maaven.practice;
+package com.maven.practice;
 
 /**
  * Hello world!
